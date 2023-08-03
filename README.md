@@ -1,5 +1,3 @@
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-08-04 at 01 43 36](https://github.com/Sinbanbonn/Netflix-App/assets/91285990/84a86a43-03af-4ace-a385-65a91dfe736c)# Netflix-App - Simple Movie Viewing App (Netflix Clone)
-
 Netflix-App is a simple movie viewing app inspired by Netflix. It's a pet project developed for my portfolio, showcasing my skills and passion for mobile app development. The app aims to provide users with an enjoyable movie browsing experience, featuring the following key functionalities:
 
 ## Features
